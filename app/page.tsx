@@ -3,6 +3,9 @@ import { motion } from 'framer-motion'
 import { useState } from 'react'
 
 const achievements = [
+  ['★','iOS Design Challenge — Top 250','Recognition','Created Helping Hands, a social-impact app concept connecting donors, charities, volunteers, and people in need.'],
+  ['⌘','Swift Innovators','Selected 1 of 20','Selected from around 60 applicants for a long-term program covering Swift, app development, business, marketing, and product thinking.'],
+  ['♧','iOS Design Club Leader','Leadership','Mentored around six students and delivered iOS/app-development training for students in Grades 8–10.'],
   ['✦','App Development with Swift Associate Certification','Confirmed credential','A certification marking a foundation in Swift and app development.'],
   ['↗','Swift Accelerator Program','Completed / participated','Hands-on learning through the Swift Accelerator program.'],
   ['⌁','Grade 12 · American Curriculum','Current status','Currently studying at American National School, Al Ain.'],
@@ -10,6 +13,8 @@ const achievements = [
   ['◎','Future CS & AI Applicant','Next chapter','Preparing to pursue undergraduate study in Computer Science and AI internationally.'],
 ]
 const projects = [
+  ['00','Helping Hands / الأيادي المساعدة','iOS Design Challenge · Top 250','A social-impact app concept inspired by reducing wasted food and connecting community support.'],
+  ['00','TerraMind','SwiftUI · AI · Sustainability','A sustainability app exploring waste classification, reporting, maps, Firebase, rewards, and AI explanations.'],
   ['01','iOS App Experiments','Swift · iOS','Swift-based learning and app development work.'],
   ['02','UI/UX Concepts','Interface · Design','Interface explorations and design thinking.'],
   ['03','Creative Technology Ideas','Concepts · Problem-solving','Ideas combining technology, design and problem-solving.'],
